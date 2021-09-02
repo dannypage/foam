@@ -7,3 +7,12 @@ You can create todos in Foam.
 - [ ] You can mark it completed by pressing `Option`+`C` (or `Alt`+`C`) when your cursor is on this line
   - [ ] You can also select multiple lines and mark them all at once!
 
+## Personal
+
+- [ ] Share out Baby registry
+  - [ ] https://www.buybuybaby.com/store/giftregistry/viewregistryguest/550245100?selectedRLVFilters=_recommended
+  - [ ] https://www.amazon.com/baby-reg/danny-page-nikki-page-november-2021-oakton/2WNGLLV6K1ZAB
+- [ ] Call Doctors
+  - [ ] Derm
+  - [ ] Dentist
+  - [ ] Glasses
