@@ -9,10 +9,12 @@ You can create todos in Foam.
 
 ## Personal
 
-- [ ] Share out Baby registry
-  - [ ] https://www.buybuybaby.com/store/giftregistry/viewregistryguest/550245100?selectedRLVFilters=_recommended
-  - [ ] https://www.amazon.com/baby-reg/danny-page-nikki-page-november-2021-oakton/2WNGLLV6K1ZAB
+- [x] Share out Baby registry
+  - [x] https://www.buybuybaby.com/store/giftregistry/viewregistryguest/550245100?selectedRLVFilters=_recommended
+  - [x] https://www.amazon.com/baby-reg/danny-page-nikki-page-november-2021-oakton/2WNGLLV6K1ZAB
 - [ ] Call Doctors
   - [ ] Derm
   - [ ] Dentist
   - [ ] Glasses
+
+## Work
