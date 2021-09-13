@@ -41,3 +41,5 @@
 - https://restofworld.org/2021/international-streaming-guide/
 - https://danluu.com/discontinuities/
 - https://www.bcbssettlement.com/?utm_medium=Link1_en&utm_source=DirectNotice_Email&utm_campaign=BCBS21
+- https://www.newyorker.com/magazine/2021/09/06/magazine20000417hells-kitchen
+- https://www.roadandtrack.com/motorsports/a10307202/the-life-and-death-of-cheryl-glass/
