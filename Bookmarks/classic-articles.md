@@ -1,0 +1,3 @@
+- https://medium.com/@benhuber/2015-how-do-i-know-when-i-m-satisfied-5e44dbbcbac5
+- [The Penny Gap](https://redeye.firstround.com/2007/03/the_first_penny.html)
+- [Options Compensation](https://github.com/jlevy/og-equity-compensation/blob/master/README.md)
