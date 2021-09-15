@@ -6,3 +6,10 @@
 
 ## Entrepreneur 
 - [Bootstrapping Stories](https://bootstrappers.com/)
+
+## Data
+
+- Climate Change
+  - [Lake Oroville](http://oroville.lakesonline.com/Level/)
+- Weather
+  - [Open Mateo](https://open-meteo.com/en/docs)
