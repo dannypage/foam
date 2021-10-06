@@ -1,0 +1,1 @@
+https://foambubble.github.io/foam/features/note-templates.html

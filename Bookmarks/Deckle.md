@@ -10,4 +10,6 @@
 - Cassandra
   - [Streaming](https://cassandra.apache.org/doc/latest/cassandra/new/streaming.html)
   - [How Discord uses Cassandra](https://blog.discord.com/how-discord-stores-billions-of-messages-7fa6ec7ee4c7)
-  - 
+  
+## How to Run A Business
+- [Defector's First Year Report](https://defector.com/defector-annual-report-year-one/)

@@ -6,6 +6,7 @@
 
 ## Entrepreneur 
 - [Bootstrapping Stories](https://bootstrappers.com/)
+- [Business Journal Papers](https://twitter.com/ExileGrimm/status/1438554873398693894)
 
 ## Data
 
@@ -13,3 +14,7 @@
   - [Lake Oroville](http://oroville.lakesonline.com/Level/)
 - Weather
   - [Open Mateo](https://open-meteo.com/en/docs)
+
+## Output
+
+- [PDF Print](https://github.com/CourtBouillon/weasyprint-samples)
