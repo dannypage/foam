@@ -1,0 +1,2 @@
+https://web.archive.org/web/20120902021741/http://www.nerdwallet.com/markets/election/
+https://www.amazon.com/Building-Microservices-Designing-Fine-Grained-Systems/dp/1492034029?ref_=Oct_d_onr_d_468204&pd_rd_w=mJvKH&pf_rd_p=9493a408-b460-43d0-bc2e-eb7b6f6520ed&pf_rd_r=GWH9C06CRTFWN3WPWGG7&pd_rd_r=4e230487-0b33-40ca-83bc-76c6707799b2&pd_rd_wg=lAhS9&pd_rd_i=1492034029

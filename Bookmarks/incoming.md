@@ -43,3 +43,10 @@
 - https://www.bcbssettlement.com/?utm_medium=Link1_en&utm_source=DirectNotice_Email&utm_campaign=BCBS21
 - https://www.newyorker.com/magazine/2021/09/06/magazine20000417hells-kitchen
 - https://www.roadandtrack.com/motorsports/a10307202/the-life-and-death-of-cheryl-glass/
+- https://absoluteunit.substack.com/p/theory-of-transfer-fees
+  https://www.quantamagazine.org/mathematician-answers-chess-problem-about-attacking-queens-20210921/
+  https://apps.apple.com/us/app/widgy/id1524540481
+  https://gist.github.com/dannypage/9bdba6e322441af6fbc0c2f3394974d4
+  https://www.homedepot.com/p/Schlage-Camelot-Satin-Nickel-Keypad-Electronic-Door-Lock-Deadbolt-BE365-CAM-619/203072627#overlay
+  https://anticapitalist.software/
+  https://startcoop.teachable.com/p/lean-co-op
