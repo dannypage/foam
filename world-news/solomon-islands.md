@@ -1,0 +1,12 @@
+# Solomon Islands
+
+## Chaos in Solomon Islands - 2021-11-30
+
+[‘Nothing left’: Solomon Islands burn amid new violence as Australian troops arrive](https://www.washingtonpost.com/world/asia_pacific/solomon-islands-riots-china-australia/2021/11/25/afcde8ce-4dc6-11ec-a7b8-9ed28bf23929_story.html)
+
+Lead:
+> Police repelled rioters from the home of the Solomon Islands’ leader on Friday as violence in the country’s capital continued for a third day despite the arrival of Australian peacekeepers. The day had begun with a mix of hope and horror, as the end of a 36-hour lockdown allowed stunned residents to wander the debris-strewn streets of Honiara while burned-out buildings smoldered. But by late afternoon, a resurgence of arson and looting had led the government to implement an overnight citywide curfew, and some residents feared the worst was yet to come. The civil unrest in the South Pacific has its roots in wider geopolitical tensions. The Solomon Islands, which sit in a strategic but politically volatile part of the world, switched allegiance from Taiwan to China in 2019, underlining Beijing’s expanding influence in a region traditionally dominated by the United States and Australia. The diplomatic U-turn angered many in this archipelago, and combined with long-standing local grievances to boil over into violence this week.
+> “These very countries that are now influencing Malaita are the countries that don’t want ties with the People’s Republic of China and they are discouraging Solomon Islands to enter into diplomatic relations” with Beijing, Sogavare said in an apparent reference to Taiwan and the United States. “I don’t want to name names, we’ll leave it there, we know who they are.” Opposition leader Matthew Wale denied Sogavare’s claim that he was one of the people behind the unrest and dismissed the idea that foreign powers were to blame. “The people in this country feel that the democratic processes are not working for them, that their own government is the puppet of China,” he told the ABC.
+
+Summary:
+I'm curious about why Australia is sending in 'peace troops' and wonder if this is one of those early events that would be indicative of how China is seen globally. Is China trying their hand at their own empire? And are they actively invested in it from a political stand point or only from the ability to continue doing infrastructure projects that might have some payoff in the future?

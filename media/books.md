@@ -7,3 +7,4 @@
   - A space adventure with a future F1 space driver
 - [F1 Heroes](https://www.skira.net/en/books/f1-heroes-1/)
   - F1 coffee table book 
+- https://jacobinmag.com/2021/10/david-graeber-the-dawn-of-everything-human-history-anthropology

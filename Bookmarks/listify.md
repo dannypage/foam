@@ -18,3 +18,7 @@
 ## Output
 
 - [PDF Print](https://github.com/CourtBouillon/weasyprint-samples)
+
+## Eno Expansion?
+- [Web Data Render](https://webdatarender.com/basic-render.html)
+  - also see test.html on dpage/WSL

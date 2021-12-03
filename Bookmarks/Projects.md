@@ -8,3 +8,4 @@
 
 ## Diaroma
 - [Outlet](https://boingboing.net/2019/12/19/secret-base-of-kubito.html)
+- 
