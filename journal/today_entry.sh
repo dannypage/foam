@@ -1,1 +1,1 @@
-cp -n ./_entry.md "./$(date +"%Y-%m-%d").md"
+cp -n ./journal/_entry.md "./journal/$(date +"%Y-%m-%d").md"
