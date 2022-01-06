@@ -5,7 +5,7 @@ name: Add new journal entry
 on: workflow_dispatch
 
 jobs:
-  run_tests:
+  today_journal_entry:
     runs-on: ubuntu-20.04
     steps:
     - uses: actions/checkout@v2
