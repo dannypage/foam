@@ -11,3 +11,5 @@
 
 - [Magnolia Park](https://www.epitaph.com/news/article/magnolia-park-sign-to-epitaph-records)
 - [Sleeping With Sirens](https://www.youtube.com/watch?v=_UwWYtLWEZg)
+- [ADG7](https://twitter.com/jcljules/status/1483629226775531522)
+- [TWICE](https://www.youtube.com/watch?v=ePpPVE-GGJw)

@@ -8,3 +8,4 @@
 - [F1 Heroes](https://www.skira.net/en/books/f1-heroes-1/)
   - F1 coffee table book 
 - https://jacobinmag.com/2021/10/david-graeber-the-dawn-of-everything-human-history-anthropology
+- [Beanie Babies](https://www.goodreads.com/book/show/20821185-the-great-beanie-baby-bubble)

@@ -1,0 +1,9 @@
+https://arhamjain.com/hyperwordle/
+https://danjacob.net/posts/djangohtmxalpine/
+https://www.reddit.com/r/django/comments/sbhe8f/htmx_polling_the_django_database_to_display_data/
+https://www.reddit.com/r/django/comments/s98o0i/htmx_tailwind_css_django_step_by_step_creation_of/
+https://www.mattlayman.com/understand-django/go-fast/
+https://www.reddit.com/r/djangolearning/comments/s7ltrp/django_crispy_forms_tutorial_including_htmx_by
+https://www.youtube.com/watch?v=_O7iwsTvVv0
+https://www.youtube.com/watch?v=414ONE1UbCA
+https://www.youtube.com/watch?v=RacU_1NgVIg
